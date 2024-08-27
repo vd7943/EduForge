@@ -1,4 +1,4 @@
-#EduForge
+# EduForge
 
 ***EduForge is a modern, responsive educational platform built with React. It is designed to provide an intuitive and engaging user experience, making it easy for educational institutions to showcase their offerings, share important information, and connect with students.***
 
