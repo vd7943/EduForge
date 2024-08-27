@@ -1,9 +1,11 @@
-# React + Vite
+#EduForge
+###EduForge is a modern, responsive educational platform built with React. It is designed to provide an intuitive and engaging user experience, making it easy for educational institutions to showcase their offerings, share important information, and connect with students.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+###Check out a live preview of EduForge here: http://eduforge.freewebhostmost.com/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# EduForge
+##Features
+Responsive Design: Fully responsive design that works across all devices.
+Dynamic Content: React components manage the content of different sections efficiently.
+Custom Styling: Uses custom CSS for a clean and professional appearance.
+Interactive Elements: Includes a video player, image galleries, sliders, and more to keep users engaged.
+Cross-Browser Compatibility: Consistent performance across different web browsers.
